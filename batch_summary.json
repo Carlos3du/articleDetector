@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-10-23T09:32:11.592456",
+  "total": 2,
+  "results": [
+    {
+      "file": "article.pdf",
+      "success": false,
+      "is_scientific": false,
+      "is_compliant": false,
+      "word_count": 0,
+      "paragraph_count": 0,
+      "error": "Erro: Erro ao carregar PDF: Unable to get page count. Is poppler installed and in PATH?"
+    },
+    {
+      "file": "non_article.pdf",
+      "success": false,
+      "is_scientific": false,
+      "is_compliant": false,
+      "word_count": 0,
+      "paragraph_count": 0,
+      "error": "Erro: Erro ao carregar PDF: Unable to get page count. Is poppler installed and in PATH?"
+    }
+  ]
+}
